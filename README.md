@@ -5,6 +5,7 @@ This repo includes some resources to showcase some of the features of HCP Terraf
 
 - Terraform (v1.9.8)
 - An HCP Terraform account. The free tier account is enough for this demo ***except for no-code modules***. If you want to try no-code make sure to use a `plus` tier organization.
+- Dev access to EntraID to create the service account. Request access here: https://docs.prod.secops.hashicorp.services/doormat/azure/working_with_ad/ 
 - Access to an Azure account for deploying resources. The cost of deploying the resources for the Hashicat app should amount to less than $20/mo, which means just a few cents for a quick demo.
 - A GitHub account and granted access to the [GitHub demo org](https://github.com/tf-demos) with the predefined modules. Reach out to me for access.
 - A GitHub personal access token with the following permissions allowed:
